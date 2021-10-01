@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hola, mi nombre es *Darío Valenzuela*
+### Bienvenido a mi github
 
-<!--
-**davc1969/davc1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" height="180">
 
-Here are some ideas to get you started:
+ - Soy ingeniero de petróleo, emprendedor y ahora **desarrollador**
+ - Próximo a terminar el Bootcamp de Edutecno **Desarrollo de aplicaciones fullstack Javascript**
+ - Chileno, venezolano, buen programador y buen lector
+ - Metódico, organizado, autodidacta y siempre buscando respuestas creativas
+ - Mi lengua materna es el **español**, I also speak **English** very well, *e parlo un po' de **italiano***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="" height="0">
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=davc1969&show_icons=true&include_all_commits=true&border_radius=20&locale=es" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davc1969&langs_count=8&locale=es&border_radius=20&langs_count=3&layout=compact" />
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=davc1969&border_radius=20" />
+
+
+
