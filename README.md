@@ -16,7 +16,7 @@
 </a>
 
 <a>
-<img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davc1969&langs_count=8&locale=es&border_radius=20&langs_count=3&layout=compact" />
+<img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davc1969&langs_count=8&locale=es&border_radius=20&langs_count=3&layout=compact" />
 </a>
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=davc1969&border_radius=20" />
