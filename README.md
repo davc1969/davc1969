@@ -11,7 +11,7 @@
 
 <img align="center" src="" height="0">
 
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=davc1969&show_icons=true&include_all_commits=true&border_radius=20&locale=es" />
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=davc1969&show_icons=true&include_all_commits=true&border_radius=20&locale=es" />
 
   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davc1969&langs_count=8&locale=es&border_radius=20&langs_count=3&layout=compact" />
 
