@@ -12,11 +12,11 @@
 
 <br>
 <a>
-<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api?username=davc1969&show_icons=true&include_all_commits=true&border_radius=20&locale=es" />
+<img  width="38%" src="https://github-readme-stats.vercel.app/api?username=davc1969&show_icons=true&include_all_commits=true&border_radius=20&locale=es" />
 </a>
 
 <a>
-<img align="right" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davc1969&langs_count=8&locale=es&border_radius=20&langs_count=3&layout=compact" />
+<img  width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davc1969&langs_count=8&locale=es&border_radius=20&langs_count=3&layout=compact" />
 </a>
 
 
