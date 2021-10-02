@@ -19,7 +19,7 @@
 <img  align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davc1969&langs_count=8&locale=es&border_radius=20&langs_count=3&layout=compact" />
 </a>
 
-<img height="200px" width="1000px" src="https://wakatime.com/share/@davc1969/2ecafde1-8f31-43ed-bf3d-de7f729146d7.svg" />
+[![dario's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davc1969)](https://github.com/davc1969/github-readme-stats)
 
 
 
