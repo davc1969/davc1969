@@ -19,7 +19,7 @@
 <img  align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davc1969&langs_count=8&locale=es&border_radius=20&langs_count=3&layout=compact" />
 </a>
 
-<img  src="https://wakatime.com/share/@davc1969/2ecafde1-8f31-43ed-bf3d-de7f729146d7.svg" />
+<img height="80px" src="https://wakatime.com/share/@davc1969/2ecafde1-8f31-43ed-bf3d-de7f729146d7.svg" />
 
 
 
