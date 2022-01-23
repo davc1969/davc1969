@@ -4,7 +4,7 @@
 <img align="left" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" height="180">
 
  - Soy ingeniero de petróleo, emprendedor y ahora **desarrollador**
- - Próximo a terminar el Bootcamp de Edutecno **Desarrollo de aplicaciones fullstack Javascript**
+ - Finalizé con éxito el Bootcamp de Edutecno **Desarrollo de aplicaciones fullstack Javascript**
  - Chileno, venezolano, buen programador y buen lector
  - Metódico, organizado, autodidacta y siempre buscando respuestas creativas
  - Mi lengua materna es el **español**, I also speak **English** very well, *e parlo un po' de **italiano***
