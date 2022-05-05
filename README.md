@@ -12,7 +12,7 @@
   <img  align="center" width="10%" src="TD_jstrainee.png" />
 </a>
 <a href="https://www.credly.com/badges/df4d3c10-8b1c-428f-90d1-dff66fa953d1/public_url">
-  <img  align="center" width="10%" src="TD_jstrainee.png" />
+  <img  align="center" width="10%" src="Escalab_HTML.png" />
 </a>
 
 <br>
