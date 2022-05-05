@@ -9,10 +9,10 @@
  - Metódico, organizado, autodidacta y siempre buscando respuestas creativas
  - Mi lengua materna es el **español**, I also speak **English** very well, *e parlo un po' de **italiano***
 <a href="https://www.credly.com/badges/2061e0f6-6057-4a84-96f9-f41b4feacf09/public_url">
-  <img  align="center" height="100px" src="TD_jstrainee.png" />
+  <img  align="center" height="85px" src="TD_jstrainee.png" />
 </a>
 <a href="https://www.credly.com/badges/df4d3c10-8b1c-428f-90d1-dff66fa953d1/public_url">
-  <img  align="center" height="80px" src="Escalab_HTML.png" />
+  <img  align="center" height="85px" src="Escalab_HTML.png" />
 </a>
 
 <br>
