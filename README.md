@@ -21,5 +21,7 @@
 
 [![dario's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davc1969&border_radius=20&border_color=6b6b6b&v=2)](https://github.com/davc1969/github-readme-stats)
 
+<img  align="center" width="40%" src="TD_jstrainee.png" />
+
 
 
