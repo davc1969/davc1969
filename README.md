@@ -9,7 +9,7 @@
  - Metódico, organizado, autodidacta y siempre buscando respuestas creativas
  - Mi lengua materna es el **español**, I also speak **English** very well, *e parlo un po' de **italiano***
 
-<img  align="center" width="25%" src="TD_jstrainee.png" />
+<img  align="center" width="10%" src="TD_jstrainee.png" />
 <br>
 <a>
 <img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api?username=davc1969&show_icons=true&include_all_commits=true&border_radius=20&locale=es&border_color=6b6b6b" />
