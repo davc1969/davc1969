@@ -8,8 +8,9 @@
  - Chileno, venezolano, buen programador y buen lector
  - Metódico, organizado, autodidacta y siempre buscando respuestas creativas
  - Mi lengua materna es el **español**, I also speak **English** very well, *e parlo un po' de **italiano***
-
-<img  align="center" width="10%" src="TD_jstrainee.png" />
+<a href="https://www.credly.com/badges/2061e0f6-6057-4a84-96f9-f41b4feacf09/public_url">
+  <img  align="center" width="10%" src="TD_jstrainee.png" />
+</a>
 <br>
 <a>
 <img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api?username=davc1969&show_icons=true&include_all_commits=true&border_radius=20&locale=es&border_color=6b6b6b" />
