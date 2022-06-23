@@ -14,6 +14,9 @@
 <a href="https://www.credly.com/badges/df4d3c10-8b1c-428f-90d1-dff66fa953d1/public_url">
   <img  align="center" height="85px" src="Escalab_HTML.png" />
 </a>
+<a href="https://www.credly.com/badges/ba9d582d-c934-4b80-b4dc-3690a60cc97e/public_url">
+  <img  align="center" height="85px" src="Escalab_GIT.png" />
+</a>
 
 <br>
 <a>
