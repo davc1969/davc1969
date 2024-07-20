@@ -18,7 +18,7 @@
   <img  align="center" height="85px" src="Escalab_GIT.png" />
 </a>
 <a href="https://www.acreditta.com/credential/93b7a978-4ee0-45c6-89f8-2e0e20daec36">
-  <img  align="center" height="85px" src="Escalab_GIT.png" />
+  <img  align="center" height="85px" src="TD_ciencia_de_datos.webp" />
 </a>
 
 <br>
