@@ -17,6 +17,9 @@
 <a href="https://www.credly.com/badges/ba9d582d-c934-4b80-b4dc-3690a60cc97e/public_url">
   <img  align="center" height="85px" src="Escalab_GIT.png" />
 </a>
+<a href="https://www.acreditta.com/credential/93b7a978-4ee0-45c6-89f8-2e0e20daec36">
+  <img  align="center" height="85px" src="Escalab_GIT.png" />
+</a>
 
 <br>
 <a>
