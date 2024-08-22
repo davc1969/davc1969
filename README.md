@@ -1,7 +1,7 @@
 # Hola, mi nombre es *Darío Valenzuela*
 ### Bienvenido a mi github
 
-<img align="left" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" height="180">
+<img align="left" src="./working.gif" height="180">
 
  - Soy ingeniero de petróleo, emprendedor y ahora **desarrollador**
  - Finalizé con éxito el Bootcamp de Edutecno **Desarrollo de aplicaciones fullstack Javascript**
