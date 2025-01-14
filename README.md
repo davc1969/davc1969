@@ -4,7 +4,7 @@
 <img align="left" src="./working.gif" height="180">
 
  - Soy ingeniero de petróleo, emprendedor y ahora **desarrollador**
- - Finalizé con éxito el Bootcamp de Edutecno **Desarrollo de aplicaciones fullstack Javascript**, certificado por Talento Digital
+ - Finalicé con éxito el Bootcamp de Edutecno **Desarrollo de aplicaciones fullstack Javascript**, certificado por Talento Digital
  - También hice el Bootcamp de Awakelab **Ciencia de Datos** y obtuve la certificación de Talento Digital
  - Chileno, venezolano, buen programador y buen lector
  - Metódico, organizado, autodidacta y siempre buscando respuestas creativas
